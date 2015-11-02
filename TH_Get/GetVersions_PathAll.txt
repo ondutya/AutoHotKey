@@ -1,0 +1,4 @@
+﻿C:\Program Files\WinRAR\WinRAR.exe
+!\\192.168.1.19\方案设计师\Dev!D:\THWork\BridgeDesigner\Dev!release.pdb
+!\\192.168.1.19\方案设计师\Main!D:\THWork\BridgeDesigner\Main!release.pdb
+!\\192.168.1.19\桥梁博士\Main!D:\THWork\DoctorBridge\Main!debug.pdb
